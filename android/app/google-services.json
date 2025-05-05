@@ -1,0 +1,69 @@
+{
+  "project_info": {
+    "project_number": "84600239657",
+    "firebase_url": "https://vav-management.firebaseio.com",
+    "project_id": "vav-management",
+    "storage_bucket": "vav-management.firebasestorage.app"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:84600239657:android:9c9aae8c42fc8e03",
+        "android_client_info": {
+          "package_name": "V.A.V"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "84600239657-hva0oqi4dto0j7rv44pkd2i2mjvm8p9t.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyBXKYoL_qCSr1FYK3e-kozo5XSSIZaDGd0"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "84600239657-hva0oqi4dto0j7rv44pkd2i2mjvm8p9t.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    },
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:84600239657:android:891cc718b5fade8084ce38",
+        "android_client_info": {
+          "package_name": "com.finscalc.finscalc"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "84600239657-hva0oqi4dto0j7rv44pkd2i2mjvm8p9t.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyBXKYoL_qCSr1FYK3e-kozo5XSSIZaDGd0"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "84600239657-hva0oqi4dto0j7rv44pkd2i2mjvm8p9t.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
